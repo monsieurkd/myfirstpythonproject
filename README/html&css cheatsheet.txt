@@ -1,0 +1,65 @@
+<!DOCTYPE>
+<html>
+	<head></head>
+	<head></head>
+	
+</html
+
+div, button, img, src: source, alt: alternative, p, h1-h6
+span (để thêm class, thêm css vào trong thẻ)
+ 
+css:
+height, width, 
+
+max-width
+
+font:
+	font-size
+	font-family
+	text-decoration
+	color
+	background-color:
+	box-shadow: inset x |y | blur-radius | color
+	cursor: pointer
+	transition: background-color 0.15s
+
+
+margin --> border --> padding
+
+	margin: top right bottom left
+	border:
+	border-radius:
+	border: width, style, color
+	padding:	
+
+
+
+display: flex, css grid, 
+
+	flex: 1;
+	flex-shrink: 0;
+	flex-direction: row, column
+	justify-content: space-between
+	align-items: center
+
+	grid-template-columns: 1fr 1fr 1fr;
+	column-gap: 
+	row-gap: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

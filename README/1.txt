@@ -1,0 +1,2 @@
+câu 1: tạp tệp cơ sở dữ liệu lớp 12L2. mdb (tên tệp là 12L2.mdp)
+tạo danh sách hs gồm 10 trường, bao gồm:mã học sinh, số kí tự, họ, tên, ngày sinh, giới tính, đoàn viên, địa chỉ, sđt, điểm thi,  

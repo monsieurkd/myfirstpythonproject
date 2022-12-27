@@ -1,0 +1,42 @@
+ Hardware architechture: generic computer
+
+secondary memory (ổ cứng, bộ nhớ lâu dài ổ ssd, )
+bao gồm hệ điều hành, file, tài liệu)
+
+ram lấy thông tin từ bộ cứng chuyển sang cpu(central processing unit)
+
+càng ngày càng nhỏ, càng ngày càng tân tiến :)) nghe ngu vl but its true
+
+cpu always asking 'what to  do next:?'  
+
+
+
+
+
+
+
+
+vocabulary: concatenate = put together
+            iterate variables: giá trị có thể điều chỉnh (for i* in range(1,5,1))
+            mnemonic: something such as a very short poem ò a special word used to help a person remember something (giúp ghi nhớ)
+            mnemonic variable: "đặt biến theo tên dễ hiểu, nhớ"
+            parsing : phân tích từ loại
+            delimiter:a character that marks the beginning or end of a unit of data
+            unambiguous: expressed in a way that makes it completely clear what is meant
+            Interoperability
+your goal: finish learning a basic of python and make a completed project!
+
+for > while
+== > is (!= > is not)
+
+
+File processing
+open(filename, mode) already learnt this in class
+file khi đọc có thể dùng như một 'chuỗi' (sequence) mà mỗi dòng được coi như là một string
+
+
+repr’s goal is to be unambiguous and str’s is to be readable.
+
+
+object lifecycle
+constructor and destructor

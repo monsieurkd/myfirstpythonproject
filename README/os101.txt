@@ -1,0 +1,16 @@
+os.system()
+open subshell, 0 success,1 otherwise\
+
+ Volume in drive C is Win10
+ Volume Serial Number is 9AED-8F60
+
+ Directory of C:\Users\HP\Desktop\KD\IT
+
+10/07/2022  07:48 AM             1,534 Nháp.py
+               1 File(s)          1,534 bytes
+               0 Dir(s)  11,902,664,704 bytes free
+0
+
+
+proxy handler for HTTPS separately
+queries

@@ -1,0 +1,8 @@
+html element
+opening tag and the closing tag
+<button>    </button>
+p: paragraph
+a: anchor element
+href: html attribute: modifies how an element behave (mot gia tri cua the)
+             !!extra space is ignored!!
+css cascading style sheets (change appearance)
