@@ -1,0 +1,3 @@
+[submodule "python_file/chess/python_file/chess/chessAI"]
+	path = python_file/chess/python_file/chess/chessAI
+	url = https://github.com/monsieurkd/chessAI.git
