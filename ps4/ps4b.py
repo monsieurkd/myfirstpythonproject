@@ -1,7 +1,7 @@
 # Problem Set 4B
-# Name: <your name here>
-# Collaborators:
-# Time Spent: x:xx
+# Name: Kieu Minh Duc
+# Collaborators: Me, myself and I
+# Time Spent: start: 30/12/23 - 16:37, end: 
 
 import string
 
